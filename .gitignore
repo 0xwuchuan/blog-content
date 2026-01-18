@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Obsidian workspace (user-specific settings)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache
