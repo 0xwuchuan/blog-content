@@ -10,6 +10,6 @@ I try to document different topics here, ranging from technical notes to persona
 Stuff I'm focusing on right now:
 - Performing and contributing meaningfully to my job at OKX. Working as a Software Engineer/Security Researcher, reviewing smart contracts and working on security tools
 - Embracing the “AI” age, [[keeping-up-with-ai |pondering about how to stay relevant in this age]] 
-- [[Learning everything I did not when I was young|Living life]] outside of blockchain and tech
+- [[learning-again|Living life]] outside of blockchain and tech
 
 I also enjoy bouldering and basketball
