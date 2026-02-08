@@ -3,7 +3,6 @@ title: Trying to be a kid again
 date: 2026-01-20
 tags: life
 ---
-
 Recently I find myself wanting to learn new things that I did not manage to when I was young. 
 
 One of these things is Swimming! More specifically, doing freestyle. I learned swimming when I was young but somehow or another stopped taking lessons before fully learning how to swim freestyle.
